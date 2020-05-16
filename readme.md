@@ -2,8 +2,6 @@
 
 ### https://dev.to/paurakhsharma/flask-rest-api-part-5-password-reset-2f2e
 
-## Note: Part 5 password reset is not working
-
 1. Install pyenv to install python version
 2. Install pipenv and set necessary environment variables
 3. Start virtual env with `pipenv shell`
